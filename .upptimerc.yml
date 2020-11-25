@@ -12,10 +12,10 @@ status-website:
   baseUrl: /chuckmacdev-uptime
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  logoUrl: https://chuckmacdev.com/img/logo-cmd-rev.png
+  name: ChuckMacDev Upptime
+  introTitle: Expert development
+  introMessage: Uptime history for ChuckMacDev
   navbar:
     - title: Status
       href: /
