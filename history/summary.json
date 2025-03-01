@@ -6,17 +6,16 @@
     "slug": "chuck-mac-dev",
     "status": "up",
     "uptime": "68.93%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "60.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "60.35%",
     "time": 192,
-    "timeDay": 2200,
-    "timeWeek": 851,
-    "timeMonth": 388,
+    "timeDay": 2214,
+    "timeWeek": 853,
+    "timeMonth": 401,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-02-28": 5,
       "2024-07-23": 1066,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -160,8 +159,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   }
 ]
