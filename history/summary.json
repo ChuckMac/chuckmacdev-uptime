@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/chuckmacdev.com.ico",
     "slug": "chuck-mac-dev",
     "status": "up",
-    "uptime": "70.48%",
+    "uptime": "70.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.82%",
-    "time": 204,
-    "timeDay": 206,
-    "timeWeek": 174,
+    "uptimeYear": "83.09%",
+    "time": 205,
+    "timeDay": 223,
+    "timeWeek": 191,
     "timeMonth": 224,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -76,8 +76,7 @@
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
-      "2024-05-24": 1440,
-      "2024-05-23": 1440
+      "2024-05-24": 1440
     }
   }
 ]
