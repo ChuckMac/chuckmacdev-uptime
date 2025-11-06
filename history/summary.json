@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chuckmacdev.com.ico",
     "slug": "chuck-mac-dev",
     "status": "up",
-    "uptime": "73.21%",
+    "uptime": "73.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 293,
-    "timeWeek": 246,
-    "timeMonth": 281,
-    "timeYear": 263,
+    "timeDay": 376,
+    "timeWeek": 224,
+    "timeMonth": 283,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   }
 ]
