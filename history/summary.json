@@ -6,17 +6,17 @@
     "slug": "chuck-mac-dev",
     "status": "up",
     "uptime": "73.41%",
-    "uptimeDay": "95.63%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "88.98%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.97%",
     "time": 261,
-    "timeDay": 201,
-    "timeWeek": 294,
-    "timeMonth": 486,
+    "timeDay": 210,
+    "timeWeek": 285,
+    "timeMonth": 473,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-11-18": 63
+      "2025-11-18": 159
     }
   }
 ]
